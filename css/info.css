@@ -1,0 +1,24 @@
+#info{
+	
+	margin: 10px 0px 10px 0px;
+	
+	background-image: url(../img/fondo1.png);
+	height:all;
+	/*background-size: 50%;
+	background-repeat: repeat-x;*/
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: white;
+	text-align: center;
+
+	
+}
+#rebaja{
+
+	margin: 0px;
+	text-align: center;
+	padding: 20%;
+	color: white; 
+	font-family: 'Advent Pro', sans-serif;
+
+}

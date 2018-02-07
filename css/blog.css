@@ -1,0 +1,21 @@
+
+#blog .contenedor{
+	display: flex;
+	justify-content: center;
+
+}
+
+#blog article{
+	margin: 15px;
+
+}
+#blog img{
+	width: 100%;
+	max-width: 400px;
+
+}
+#blog h3,h4{
+	text-align: center;
+color: black; 
+font-family: 'Advent Pro', sans-serif;
+}
